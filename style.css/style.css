@@ -1,0 +1,40 @@
+body{
+    font: 20px Arial, scans-serif;
+    
+}
+
+.navbar {
+    background-color: cadetblue;
+}
+
+.menu-texto{
+    color: black;
+}
+
+.quem-somos {
+    background-color: #f9bfb3;
+    
+}
+
+.margin{
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+#img_logo{
+    padding-left: 10px;
+}
+
+#logo_bar {
+    margin-left: 15px;
+    margin-right: 50px;
+}
+
+.documento{
+    background-color:cyan;
+}
+
+.bg-footer{
+    background-color: black;
+    color: white;
+}
